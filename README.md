@@ -20,7 +20,7 @@ Humara **Transmitter (TX) ESP8266** ek local WiFi Hotspot banata hai. Aap apna s
 
 Yeh system 2 hisson mein banta hua hai aur Tank Drive (Differential Steering) logic par kaam karta hai:
 
-### 1. Transmitter Side (The Virtual Remote - ESP8266)
+### 1. Transmitter Side (The Virtual Remote - ESP8266 mini)
 * **WiFi Access Point:** ESP8266 ek `ESP-REMOTE` naam ka WiFi network banata hai.
 * **Web UI Joystick:** Mobile se connect karne par ek custom HTML/JS dual-joystick interface load hota hai.
 * **Auto-Center Logic:** Screen par drag chhodte hi joysticks automatically middle (0) par snap ho jate hain. (Up = +100, Down = -100).
